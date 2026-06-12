@@ -23,15 +23,11 @@ O estudo simula a construção de um assistente inteligente capaz de apoiar dese
 
 ## 📚 Curadoria de Fontes
 
-As fontes utilizadas no NotebookLM foram:
-
-- LangChain Documentation  
-- ChromaDB Documentation  
-- OpenAI Embeddings Guide  
-- AWS - What is RAG  
-- NotebookLM Official Documentation  
-
-Essas fontes foram utilizadas para construção do caderno temático e base de conhecimento do projeto.
+- LangChain: https://python.langchain.com/docs/
+- ChromaDB: https://docs.trychroma.com/
+- OpenAI Embeddings: https://platform.openai.com/docs/guides/embeddings
+- AWS RAG: https://aws.amazon.com/what-is/retrieval-augmented-generation/
+- NotebookLM: https://notebooklm.google.com/
 
 ---
 
